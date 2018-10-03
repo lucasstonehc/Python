@@ -1,4 +1,5 @@
 Autor: Lucas Santos Pimenta Junior
+IFMG-Sabará
 Algorítmo implementado:
     Busca em largura, conhecido em Inglês como "Breadth First Search"
     Sigla: BFS
@@ -22,7 +23,7 @@ Objetivo:
 Desafios encontrados durante a implementação:
     *Entender o domínio do algorítmo
     *Modelar o problema
-    *Transformar o Pseudocódigo para código de máquina
+    *Transformar o pseudocódigo para código de máquina
 
 
 
